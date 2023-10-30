@@ -9,7 +9,8 @@ Additional functions to navigate between tags in AwesomeWM using filters.
 
 Differences with [guotsuan/eminent](https://github.com/guotsuan/eminent) :
 - No monkey patching (prevent from breaking native AwesomeWM stuff).
-- Add navigation features next to native ones. 
+- Add navigation features next to native ones.
+- Multiple navigation modes can coexist.
 
 ## Install & setup
 
