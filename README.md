@@ -1,12 +1,12 @@
 # awesome-navigate-tags
 Additional functions to navigate between tags in AwesomeWM using filters. 
 
-## features
+## Features
 
 * Build a set of tag navigation functions (`viewnext`, `viewprev` and `viewidx`) similar to native ones from AwesomeWM but using a tag filter.
 * Allows to enable dynamic tags easily.
 
-## install & setup
+## Install & setup
 
 1.Clone in your config directory (`~/.config/awesome/`)
 ```bash
