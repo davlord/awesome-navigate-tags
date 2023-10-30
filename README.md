@@ -4,7 +4,12 @@ Additional functions to navigate between tags in AwesomeWM using filters.
 ## Features
 
 * Build a set of tag navigation functions (`viewnext`, `viewprev` and `viewidx`) similar to native ones from AwesomeWM but using a tag filter.
+* You can build multiple set of navigation functions with different filters.
 * Allows to enable dynamic tags easily.
+
+Differences with https://github.com/guotsuan/eminent :
+- No monkey patching (prevent from breaking native AwesomeWM stuff).
+- Add navigation features next to native ones. 
 
 ## Install & setup
 
